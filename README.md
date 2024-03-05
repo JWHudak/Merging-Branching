@@ -13,3 +13,6 @@ This is my masterpiece
 
  ## switch branches
  git checkout //branch 
+
+ ## merge branches
+ git merge //branch
