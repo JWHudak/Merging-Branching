@@ -10,3 +10,6 @@ This is my masterpiece
 
  ## list all branches
  git branch
+
+ ## switch branches
+ git checkout //branch 
